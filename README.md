@@ -21,8 +21,16 @@ The script specifically checks for the following ports:
 - `139`: NetBIOS
 - `445`: SMB
 - `1433`: MS SQL
+- `1521`: Oracle SQL
+- `3050`: Firebird SQL
 - `3306`: MySQL
+- `3307`: MySQL (Encrypted Connections)
+- `3351`: Pervasive PSQL
 - `3389`: RDP
+- `5900`: VNC Server (first display)
+- `5000`: Sybase SQL Server
+- `5432`: PostgreSQL
+- `27017`: MongoDB
 
 ## Prerequisites
 
