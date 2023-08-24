@@ -5,7 +5,7 @@ This PowerShell script checks for open ports on your machine and assesses them f
 ## Functionality
 
 1. Lists all established TCP connections on the system.
-2. Filters and displays unique ports with their corresponding process names and IDs.
+2. Filters and displays unique ports with their corresponding Process Names, PIDs, and IP Addresses.
 3. Highlights ports that are commonly associated with vulnerabilities.
 
 ## Commonly Checked Ports
